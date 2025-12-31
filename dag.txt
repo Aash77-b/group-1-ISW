@@ -1,6 +1,0 @@
-Dagmawit Biniyam ETS0400/17
-<<<<<<< HEAD
-INtro 
-=======
-INtro
->>>>>>> main
