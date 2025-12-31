@@ -1,4 +1,4 @@
-Group 1 Assignment on creating collabration on github first using vscode then GITHUB
+Group 4 Assignment on creating collabration on github first using vscode then GITHUB
 Group Members
 
 Ashenafi Gebremedhin ets0202/17
